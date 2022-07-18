@@ -3,7 +3,6 @@ import "./App.css";
 import Form from "./app_component/form.component";
 import Weather from "./app_component/weather.component";
 import "bootstrap/dist/css/bootstrap.min.css";
-
 // git project https://github.com/erikflowers/weather-icons
 import "weather-icons/css/weather-icons.css";
 
